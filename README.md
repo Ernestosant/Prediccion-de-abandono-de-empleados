@@ -29,6 +29,7 @@ Esta fase se enfoca en la creación y validación de un modelo de machine learni
 2. numpy
 3. sklearn
 4. seaborn
+5. pandas
 
 
 
